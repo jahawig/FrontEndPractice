@@ -1,4 +1,6 @@
 /* Currently Not Working Need to Fix */
+/* Problem lies in webkit-mask (non-standard property - should be avoided) */
+
 .wrapper {
     display: grid;
     place-items: center;
